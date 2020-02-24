@@ -24,4 +24,4 @@ CMD ["sh", "selenium.sh"]
 CMD ["sh", "java.sh"]
 CMD ["sh", "sikulix.sh"]
 
-CMD ["echo", "help me lord shiva"]
+CMD ["echo", "Docker for testing purpose"]
